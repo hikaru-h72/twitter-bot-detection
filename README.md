@@ -1,2 +1,2 @@
-# twitter-bot-detection
-Bot detection analysis using machine learning and statistical methods
+# predictive-maintenance-analysis
+予知保全データの分析
